@@ -1,0 +1,8 @@
+{
+  "name": "Crisis Dectection",
+  "description": "An advanced AI-powered crisis detection dashboard and intervention system for mental health platforms, featuring real-time risk scoring and multi-layered analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
